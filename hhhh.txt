@@ -1,7 +1,0 @@
-golang
-python
-cpp
-java
-lua
-shell
-
